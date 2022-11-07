@@ -1,0 +1,15 @@
+{
+    "person":{
+        "firstName":"Rachel",
+        "lastName":"Xia"
+    },
+    "study":{
+        "student":"BCIT",
+        "program":"Digital Design and Development Diploma",
+        "url":"https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/"
+    },
+    "previous-study":{
+        "student":"UBC",
+        "program":"Forestry Science"
+    }
+}
